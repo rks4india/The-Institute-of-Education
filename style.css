@@ -59,7 +59,7 @@ body{
 
 /* ###### header styling #######  */
 #header{
-    background: url("./img/mathematical\ equipments.jpg");
+    background: url("./img/calc.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -72,6 +72,7 @@ header .showcase{
     transform: translate(-50%,-50%);    
     text-align: center;
     font-size: 2rem;
+    background: rgba(0, 0, 0, 0.068);
 }
 
 /* ########### navbar styling ###########  */
