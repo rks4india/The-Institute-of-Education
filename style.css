@@ -128,6 +128,30 @@ header .showcase{
     border-bottom: 0.15em solid #117964;
 }
 
+.registration{
+    
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-80%,-50%);    
+    text-align: center;
+    font-size: 2rem;
+    background: rgba(0, 0, 0, 0.068); 
+}
+.registration h3{
+    color: red;
+}
+
+.registration a:hover{
+    border-bottom: 0.1em solid blue;
+}
+.registration a{
+    text-decoration: none;
+    display: inline-block;
+    color: blue;
+    padding-bottom: 0;
+}
+
 
 /* ########### courses section ############  */
 #courses .heading{
