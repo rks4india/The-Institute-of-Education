@@ -128,16 +128,19 @@ header .showcase{
     border-bottom: 0.15em solid #117964;
 }
 
-.registration{
-    
+.registration {
     position: absolute;
     top: 80%;
     left: 50%;
-    transform: translate(-80%,-50%);    
+    align-items: center;
+    transform: translate(-56%,-50%);
     text-align: center;
     font-size: 2rem;
-    background: rgba(0, 0, 0, 0.068); 
+    margin-top: 0.2em;
+    padding: 0.5em;
+    background: rgba(0, 0, 0, 0.068);
 }
+
 .registration h3{
     color: red;
 }
