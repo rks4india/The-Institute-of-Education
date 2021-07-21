@@ -128,15 +128,11 @@ header .showcase{
     border-bottom: 0.15em solid #117964;
 }
 
-.registration {
-    /* position: absolute; */
-    /* top: 80%;
-    left: 50%; */
-    align-items: center;
-    /* transform: translate(-56%,-50%); */
+.registration {    
+    align-items: center;    
     text-align: center;
     font-size: 2rem;
-    margin-top: 0.5em;
+    margin-top: 1.5em;
     padding: 0.5em;
     background: rgba(0, 0, 0, 0.068);
 }
